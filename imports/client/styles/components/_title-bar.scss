@@ -1,0 +1,15 @@
+.title-bar {
+  background: #5b4681;
+  color: white;
+}
+.title-bar__title {
+  margin: 0;
+}
+.title-bar__content {
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 1.3rem;
+
+  display: flex;
+  justify-content: space-between;
+}

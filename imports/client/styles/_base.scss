@@ -1,0 +1,46 @@
+// Reset
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+}
+
+h1 {
+  font-size: $large-font-size;
+  font-weight: 300;
+  margin-bottom: $space;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: $space;
+  color: #777;
+}
+
+a {
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+input[type='text'], input[type='email'], input[type='password'] {
+  border: 1px solid $input-border;
+  font-size: $base-font-size;
+  margin-bottom: $space;
+  padding: $input-spacing;
+}
