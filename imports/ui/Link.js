@@ -12,7 +12,7 @@ import LinksListFilters from './../ui/LinksListFilters';
 export default () => {
   return (
     <div>
-      <PrivateHeader title="Short Lnk" />
+      <PrivateHeader title="Short Lnk Login" />
       <div className="page-content">
         <LinksListFilters/>
         <AddLink />
