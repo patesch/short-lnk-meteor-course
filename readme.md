@@ -1,9 +1,5 @@
-# Short Lnk
+# short-lnk-meteor-course
+short-lnk-meteor-course
 
-## This is a link shortner built on Meteor and React.
-
-## Authors
-
+Authors
 Pedro Tesch (patesch)
-
-Something Special
